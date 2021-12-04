@@ -1,0 +1,1 @@
+The following repo contains food recipes written in an object oriented way in Python. The purpose of this repo is to help with manifesting different foods I'm thinking of as well as for research purposes. Ultimately, this may also be used by robot chefs to cook human food. :)). 
